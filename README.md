@@ -24,8 +24,8 @@
 ![image_alt](https://github.com/khairulhub/shop_management_system_based_on_networking/blob/d77b8172af8c3c730a542218ffc5f91c179d0fdc/Capture2.PNG)
 
 
-### Psychical Mode Explaination
-#Step-1
+### Logical Mode Explaination
+#Step-1 ( all connection )
 * Connect router gig0/0/0 with isp server 
 * Connect router gig0/0/1 with L3 switch gig0/1
 * connect L3 switch fa0/1 with L2 switch gig0/1
@@ -35,11 +35,11 @@
 * Connect cat6 cable punch down with wall mount.
 * Connect wall mount connector with end device.
 
-#Step-2
+#Step-2 ( software instalation )
 * Download putty software.
 * Install putty software.
 
-#Step-3
+#Step-3 ( configuration )
 * Connect console port with pc
 * Open putty software
 * Select serial then select port number (com1 is default, check usb and number of port.)
@@ -47,4 +47,4 @@
 
 
 
-![image_alt](https://github.com/khairulhub/shop_management_system_based_on_networking/blob/d77b8172af8c3c730a542218ffc5f91c179d0fdc/Capture2.PNG)
+![image_alt](https://github.com/khairulhub/shop_management_system_based_on_networking/blob/2893c7a9310bfaca93c28eb30f6b4d24404e8eb8/Capture1111.PNG)
